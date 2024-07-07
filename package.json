@@ -1,0 +1,33 @@
+{
+  "name": "@grinstead/result",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "version": "0.1.0",
+  "description": "A type and utilities for dealing with success/failure",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grinstead/result.git"
+  },
+  "keywords": [
+    "result",
+    "success",
+    "failure",
+    "error"
+  ],
+  "author": "Joe Grinstead <npm@mailforce.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grinstead/result/issues"
+  },
+  "homepage": "https://github.com/grinstead/result#readme"
+}
