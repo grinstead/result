@@ -26,7 +26,7 @@
   "homepage": "https://github.com/grinstead/result#readme",
   "scripts": {
     "build": "tsc",
-    "prepublishOnly": "run build"
+    "prepublishOnly": "npm run build"
   },
   "devDependencies": {
     "typescript": "^5.0.0"
