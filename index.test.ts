@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test";
-import { success, failure, Result } from "./index";
+import { success, failure } from "./index";
 
 describe("Result Type Tests", () => {
   it("should create a success result", () => {
