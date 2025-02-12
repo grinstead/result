@@ -1,6 +1,5 @@
 {
   "name": "@grinstead/result",
-  "module": "index.ts",
   "type": "module",
   "version": "0.1.0",
   "description": "A type and utilities for dealing with success/failure",
