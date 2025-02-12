@@ -1,7 +1,7 @@
 {
   "name": "@grinstead/result",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A type and utilities for dealing with success/failure",
   "main": "dist/index.js",
   "files": [
